@@ -1,4 +1,4 @@
-#  Java Course
+# java MyProjects
 
 This is a compilation of all the java programs I've tried and tested during a course by [NPTEL](https://swayam.gov.in/explorer?ncCode=NPTEL) (Programming in Java).
 
